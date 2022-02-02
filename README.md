@@ -5,7 +5,7 @@
 - Meu foco de estudos atualmente é HTML, CSS e JavaScript
 
 ## Projetos
-- Guess The Number!(https://github.com/gabrielredu/guess-the-number-js);
+- Guess The Number![!(https://github.com/gabrielredu/guess-the-number-js)]
 
 ## Linguagens e ferramentas
 
