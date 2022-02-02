@@ -1,12 +1,20 @@
 # Olá, me chamo Gabriel Dias Redü!
 
 ## Sobre
-- Atualmente trabalho como Designer UI e estou no processo de transição de carreira para a área de desenvolvimento Front End.
-- Meu foco de estudos atualmente é HTML, CSS e JavaScript
+>- Atualmente trabalho como Designer UI e estou no processo de transição de carreira para a área de desenvolvimento Front End.
+>- Meu foco de estudos atualmente é HTML, CSS e JavaScript
 
 ## Projetos
-- Guess The Number![!(https://github.com/gabrielredu/guess-the-number-js)]
+>- [Guess The Number!](https://github.com/gabrielredu/guess-the-number-js)
+>- [Atarefalho (To-do List)](https://github.com/gabrielredu/atarefalho-to-do-list)
 
 ## Linguagens e ferramentas
+><img align="left" alt="HTML5" width="30px" src="" />
+><img align="left" alt="CSS" width="30px" src="" />
+><img align="left" alt="JavaScript" width="30px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
+><img align="left" alt="SASS" width="30px" src="" />
 
 ## Cursos
+>- [Alura - Básico em HTML, CSS e JavaScript](https://www.alura.com.br/)
+>- [Origamid - Web Design Completo](https://www.origamid.com/certificate/17756faa/)
+>- [Origamid - CSS com SASS](https://www.origamid.com/certificate/1ac59d57/)
