@@ -8,9 +8,9 @@
 <br>
 
 ## 💻  Projetos
->- [Guess The Number!](https://github.com/gabrielredu/guess-the-number-js)
+>- [Guess The Number!](https://github.com/gabrielredu/guess-the-number-js) <br>
 >Um simples joguinho de adivinhação para eu treinar JavaScript e simples manipulação do DOM.
->- [Atarefalho (To-do List)](https://github.com/gabrielredu/atarefalho-to-do-list)
+>- [Atarefalho (To-do List)](https://github.com/gabrielredu/atarefalho-to-do-list) <br>
 >Uma to-do list que eu ainda estou trabalhando e melhorando ela para praticar JavaScript e manipulação do DOM.
 
 <br>
@@ -27,3 +27,4 @@
 >- [Alura - Básico em HTML, CSS e JavaScript](https://www.alura.com.br/)
 >- [Origamid - Web Design Completo](https://www.origamid.com/certificate/17756faa/)
 >- [Origamid - CSS com SASS](https://www.origamid.com/certificate/1ac59d57/)
+>- [Origamid - JavaScript Completo ES6+ (55% do curso feito)](https://www.origamid.com/curso/javascript-completo-es6/)
