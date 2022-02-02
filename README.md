@@ -14,6 +14,8 @@
 ><img align="left" alt="JavaScript" width="30px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
 ><img align="left" alt="SASS" width="30px" src="https://pressupinc.com/wp-content/uploads/2014/03/sass-logo.png" />
 
+<br><br>
+
 ## Cursos
 >- [Alura - Básico em HTML, CSS e JavaScript](https://www.alura.com.br/)
 >- [Origamid - Web Design Completo](https://www.origamid.com/certificate/17756faa/)
