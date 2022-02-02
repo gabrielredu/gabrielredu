@@ -4,9 +4,13 @@
 >- Atualmente trabalho como Designer UI e estou no processo de transição de carreira para a área de desenvolvimento Front End.
 >- Meu foco de estudos atualmente é HTML, CSS e JavaScript
 
+<br>
+
 ## Projetos
 >- [Guess The Number!](https://github.com/gabrielredu/guess-the-number-js)
 >- [Atarefalho (To-do List)](https://github.com/gabrielredu/atarefalho-to-do-list)
+
+<br>
 
 ## Linguagens e ferramentas
 ><img align="left" alt="HTML5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
