@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️  Sobre
 >- Atualmente trabalho como Designer UI e estou no processo de transição de carreira para a área de desenvolvimento Front End.
->- Meu foco de estudos atualmente é HTML, CSS e JavaScript para firmar bem a base
+>- Meu foco de estudos atualmente é firmar bem a base de HTML, CSS e JavaScript
 >- Próximo passo será aprender React!
 
 <br>
