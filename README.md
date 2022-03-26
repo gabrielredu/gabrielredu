@@ -2,8 +2,6 @@
 
 ## 🙋‍♂️  Sobre
 >- Atualmente trabalho como Designer UI e estou no processo de transição de carreira para a área de desenvolvimento Front End.
->- Meu foco de estudos atualmente é firmar bem a base de HTML, CSS e JavaScript
->- Próximo passo será aprender React!
 
 <br>
 
@@ -11,7 +9,7 @@
 >- [Guess The Number!](https://github.com/gabrielredu/guess-the-number-js) <br>
 >Um simples joguinho de adivinhação para eu treinar JavaScript e simples manipulação do DOM.
 >- [Atarefalho (To-do List)](https://github.com/gabrielredu/atarefalho-to-do-list) <br>
->Uma to-do list que eu ainda estou trabalhando e melhorando ela para praticar JavaScript e manipulação do DOM.
+>Uma to-do list que eu fiz para estudos de JavaScript.
 
 <br>
 
